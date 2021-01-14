@@ -1,0 +1,35 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# Placards
+
+```{bash}
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR165/ERR165972/ERR165972.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166146/ERR166146.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166059/ERR166059.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166124/ERR166124.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166099/ERR166099.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166125/ERR166125.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166158/ERR166158.fastq.gz
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR165/ERR165958/ERR165958.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166128/ERR166128.fastq.gz
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166081/ERR166081.fastq.gz
+```
+
+
+# Frigos 
+
+```{bash}
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166115/ERR166115.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR165/ERR165926/ERR165926.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166026/ERR166026.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166104/ERR166104.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR165/ERR165994/ERR165994.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR165/ERR165979/ERR165979.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166157/ERR166157.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR165/ERR165935/ERR165935.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166072/ERR166072.fastq.gz	
+wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR166/ERR166162/ERR166162.fastq.gz	
+```
